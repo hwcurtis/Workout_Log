@@ -3,9 +3,9 @@ import pandas as pd
 # 1. Define the column names
 columns = [
     "DATE",
+    "WORKOUT TYPE",
+    "WORKOUT TOTAL TIME",
     "DISTANCE",
-    "WORK OUT TYPE",
-    "WORK OUT TOTAL TIME",
     "SPLIT TIMES",
     "Avg.Pace",
     "TOTAL CALORIES",
