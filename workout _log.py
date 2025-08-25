@@ -3,19 +3,18 @@ import pandas as pd
 # 1. Define the column names
 columns = [
     "DATE",
+    "DISTANCE",
     "WORK OUT TOTAL  TIME",
     "SPLIT TIMES",
-    "DISTANCE",
     "TOTAL CALORIES",
-    " HEART RATE",
-    "MILES TIME TOTAL"
+    "HEART RATE",
 ]
-# 2. Create sample data (empty or with example rows)
-data = [{col: "" for col in columns}
-        for _ in range(30)]  # Empty row as placeholder
+
+# 2. Create an empty dataset with 2 rows (you can change 2 to 30 if you want)
+data = [{col: "" for col in columns} for _ in range(30)]
 
 # 3. Turn it into a DataFrame
-df = pd.DataFrame(data, columns=columns)
+df = pd.DataFrame(data)
 
 # 4. Save as CSV file
 df.to_csv("Workout_Log.csv", index=False)
