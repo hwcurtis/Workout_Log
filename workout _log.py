@@ -6,9 +6,10 @@ columns = [
     "DISTANCE",
     "WORK OUT TOTAL  TIME",
     "SPLIT TIMES",
+    "Avg.Pace",
     "TOTAL CALORIES",
     "HEART RATE",
-    "'WEATHER",
+    "WEATHER",
 ]
 
 # 2. Create an empty dataset with 2 rows (you can change 2 to 30 if you want)
