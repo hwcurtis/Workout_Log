@@ -4,7 +4,8 @@ import pandas as pd
 columns = [
     "DATE",
     "DISTANCE",
-    "WORK OUT TOTAL  TIME",
+    "WORK OUT TYPE",
+    "WORK OUT TOTAL TIME",
     "SPLIT TIMES",
     "Avg.Pace",
     "TOTAL CALORIES",
