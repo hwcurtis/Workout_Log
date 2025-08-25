@@ -1,14 +1,13 @@
 import pandas as pd
 
-# 1. Define the column names
 columns = [
     "DATE",
     "WORKOUT TYPE",
-    "WORKOUT TOTAL TIME",
-    "DISTANCE",
-    "SPLIT TIMES",
-    "Avg.Pace",
+    'DISTANCE',
+    "WORKOUT TIME",
+    "SPLIT TIME",
     "TOTAL CALORIES",
+    "Avg.Pace",
     "HEART RATE",
     "WEATHER",
 ]
