@@ -1,0 +1,10 @@
+import pandas as pd
+
+columns = ["DATE", "WORKOUT TYPE", "Split Times", "DISTANCE",
+           "PACE", "Total Calories", "HEART RATE", "Weather"]
+data = [{col: "WORKOUT LOG" for col in columns} for _ in range(30)]
+
+df = pd.DataFrame(data)
+print(df)
+
+df.to_csv("workout log.csv", index=False)
