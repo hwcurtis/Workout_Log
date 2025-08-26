@@ -9,7 +9,8 @@ columns = [
     "TOTAL CALORIES",
     "Avg.Pace",
     "HEART RATE",
-    "WEATHER",
+    "TOTAL STEPS",
+    "WEATHER"
 ]
 
 # 2. Create an empty dataset with 2 rows (you can change 2 to 30 if you want)
