@@ -1,14 +1,25 @@
-DATE,WORKOUT TYPE,DISTANCE,WORKOUT TIME,SPLIT TIME,TOTAL CALORIES,Avg.Pace,HEART RATE,TOTAL STEPS,WEATHER
-8/6,walking,1.41,40.23,26.14 14:09,185,28.30,117,"11,138",71 @ 88% Hummidty
+DATE,WORKOUT TYPE,DISTANCE,WORKOUT TIME,SPLIT TIME,TOTAL CALORIES,Avg.Pace,HEART RATE bpm,TOTAL STEPS/mile,WEATHER/Hummdity 
+8/6,walking,1.41,40.23,26.14 14:09,185,28.30/per mile,117,"11,138 4.5 m",71 @ 88% Hummidty
 8/7,Nothing,helped,Chris ,move,,,,,
-8/8,Walking,140,39.14,28.08 10.13,186,27.52,120,"10,110",
+8/8,Walking,1.40 miles,39.14,28.08 10.13,186,27.52,120,"10,110",
 8/8,Swim,899 yards,35:21,,332,3.5 per 100 yds,97,"10,110",73 @ 86% humid when walking
 8/9,Tai Chi,,1hr,,129 ,,86,"8,463",also walked
 8/10,Swim,854 yards,32.18,,280,3.42 per/100 yds ,93,"10,168",
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+8/10,Walk/jog,"1,33 miles",39.22,28.12 10.33,169,29.31,109,"10,168",74 @ 80%
+8/11,walk/jog,1.46,39.55,27.23 11.36,140,27.13,118,"11,875",78 @ 73% hummidty
+8/12,swim,224 yards,7,2.49,44,2.48,107,,
+8/12,SWIM,1259 YARDS,40.10,3.14,422,3.14 /100 yards,105,,
+8/12,walk/jog,1.13,27.23,23.56 2.58,111,24.11/mile,133,"8,850",82  @ 70% humidty 
+8/13,swim,"1,019 yds",33:41,,310,3.11/100 yds 68 lps,97,,
+8/13,walk/jog,1.38,30:36,22:01 8:31,134,22.05/mile,131,"11,937",73 @ 93% hummidty
+8/14,Swim,"1,004 yds",35.58,"3,47",295,3.47/100yds 67 laps,94,,
+8/14,Walk/Jog,1.2 miles,34.21,24.18 38.47,110,28.36,117,"9,821",74 @ 87% humidty
+8/15,Walk/jog,1.03,21:07,20:08 25.16,132,20.20,135,"9,355/3.8 M",76 @ 85% hummidty
+8/16,Tai Chi,,1:13,,136,,80,,
+8/16,swimming,1349 yards,,,465,3.56/lap,98,"6,671/2.69",
+8/17,walk,1.42`,36,19.31,193,25.24,133,"11,617 4.8 miles",72 @ 93%
+8/17,swim,209yards,5,2.49,58,2.49,108,,
+8/18,swim,809 yards,38 min,2.5,209,5.39 / 100yards),93,"4,400",
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
